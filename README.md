@@ -2,16 +2,19 @@
 
 <!-- <h3> Assalamu'alaika ( Peace be upon you), I am Abdul Matin </h3> -->
 
-### Assalamu'alaika ( Peace be upon you), I am Abdul Matin
+## Assalamu'alaika ( Peace be upon you), I am Abdul Matin
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abdul_Matin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AbdulMatinMuaz/)](https://www.linkedin.com/in/AbdulMatinMuaz/)
 [![Gmail Badge](https://img.shields.io/badge/-Abdul_Matin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ammuaj.cseruet@gmail.com)](mailto:ammuaj.cseruet@gmail.com)
 
+### Welcome to my GitHub page
+
+<!--
 - 🎯 Portfolio website: [Portfolio](https://AbdulMatin.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
-<!--
+
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
