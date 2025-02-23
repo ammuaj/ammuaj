@@ -4,7 +4,7 @@
 
 <!-- <h3> Assalamu'alaika ( Peace be upon you), I am Abdul Matin </h3> -->
 
-## Assalamu'alaika ( Peace be upon you), I am Abdul Matin
+## Assalamu'alaika ( Peace be upon you), I am Abdul Matin, doing my PhD at Colorado State University, USA.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abdul_Matin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AbdulMatinMuaz/)](https://www.linkedin.com/in/AbdulMatinMuaz/)
 [![Gmail Badge](https://img.shields.io/badge/-Abdul_Matin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ammuaj.cseruet@gmail.com)](mailto:ammuaj.cseruet@gmail.com)
